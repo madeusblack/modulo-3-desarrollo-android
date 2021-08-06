@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88693653435",
+    "project_id": "aforo-covid",
+    "storage_bucket": "aforo-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88693653435:android:fc2dfcde0b1dc9825d8e9e",
+        "android_client_info": {
+          "package_name": "com.example.aforocovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88693653435-79abe3elee91eukl81oijqdfv66ok9b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkU9FzMmNyf0N_68GJc45B8Tgp18PsGUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88693653435-79abe3elee91eukl81oijqdfv66ok9b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
